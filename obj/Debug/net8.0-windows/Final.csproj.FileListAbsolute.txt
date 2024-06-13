@@ -1,0 +1,74 @@
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\Final.exe
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\Final.deps.json
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\Final.runtimeconfig.json
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\Final.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\Final.pdb
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.Convert.resources
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.Form1.resources
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.Trim.resources
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.csproj.GenerateResource.cache
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\refint\Final.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.pdb
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\ref\Final.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\libmp3lame.32.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\libmp3lame.64.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\NAudio.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\NAudio.Asio.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\NAudio.Core.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\NAudio.Lame.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\NAudio.Midi.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Рабочий стол\Final\obj\Debug\net8.0-windows\Final.csproj.Up2Date
+D:\OA\C#\Final\bin\Debug\net8.0-windows\libmp3lame.32.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\libmp3lame.64.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Final.exe
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Final.deps.json
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Final.runtimeconfig.json
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Final.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Final.pdb
+D:\OA\C#\Final\bin\Debug\net8.0-windows\NAudio.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\NAudio.Asio.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\NAudio.Core.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\NAudio.Lame.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\NAudio.Midi.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\NAudio.Wasapi.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\NAudio.WinForms.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\NAudio.WinMM.dll
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.csproj.AssemblyReference.cache
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.Convert.resources
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.Form1.resources
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.Trim.resources
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.csproj.GenerateResource.cache
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.GeneratedMSBuildEditorConfig.editorconfig
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.AssemblyInfoInputs.cache
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.AssemblyInfo.cs
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.csproj.CoreCompileInputs.cache
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.csproj.Up2Date
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.dll
+D:\OA\C#\Final\obj\Debug\net8.0-windows\refint\Final.dll
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.pdb
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.genruntimeconfig.cache
+D:\OA\C#\Final\obj\Debug\net8.0-windows\ref\Final.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Syncfusion.Core.WinForms.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Syncfusion.Licensing.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Syncfusion.Shared.Base.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Syncfusion.Core.XForms.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Syncfusion.SfRangeSlider.XForms.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Xamarin.Forms.Core.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Xamarin.Forms.Platform.dll
+D:\OA\C#\Final\bin\Debug\net8.0-windows\Xamarin.Forms.Xaml.dll
+D:\OA\C#\Final\obj\Debug\net8.0-windows\Final.sourcelink.json
